@@ -1,0 +1,29 @@
+# 内容：Apple
+# 数量：27条
+DOMAIN,apple.comscoreresearch.com
+DOMAINSUFFIX,aaplimg.com
+DOMAINSUFFIX,akadns.net
+DOMAINSUFFIX,applecloudkit.com
+DOMAINSUFFIX,apple.co
+DOMAINSUFFIX,apple.com
+DOMAINSUFFIX,apple.com.cn
+DOMAINSUFFIX,apple.news
+DOMAINSUFFIX,appstore.com
+DOMAINSUFFIX,cdnapple.com
+DOMAINSUFFIX,crashlytics.com
+DOMAINSUFFIX,icloudcontent.com
+DOMAINSUFFIX,icloud.com
+DOMAINSUFFIX,icloud.com.cn
+DOMAINSUFFIX,itunes.com
+DOMAINSUFFIX,me.com
+DOMAINSUFFIX,mzstatic.com
+IPCIDR,17.0.0.0/8,noresolve
+IPCIDR,63.92.224.0/19,noresolve
+IPCIDR,65.199.22.0/23,noresolve
+IPCIDR,139.178.128.0/18,noresolve
+IPCIDR,144.178.0.0/19,noresolve
+IPCIDR,144.178.36.0/22,noresolve
+IPCIDR,144.178.48.0/20,noresolve
+IPCIDR,192.35.50.0/24,noresolve
+IPCIDR,198.183.17.0/24,noresolve
+IPCIDR,205.180.175.0/24,noresolve
