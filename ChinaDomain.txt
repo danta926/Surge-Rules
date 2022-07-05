@@ -17,9 +17,6 @@ DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
 
-#谷歌翻译
-DOMAIN-SUFFIX,translate.google.cn
-
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
