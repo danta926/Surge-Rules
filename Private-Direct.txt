@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 
 #谷歌翻译
 DOMAIN-SUFFIX,translate.google.cn
+
+#速卖通
+DOMAIN-SUFFIX,aliexpress.com
